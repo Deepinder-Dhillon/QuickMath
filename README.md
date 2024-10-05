@@ -42,7 +42,6 @@ The CoreML model used to predict difficulty was trained with a dataset of math p
 - **CoreML**: To predict and categorize the difficulty of math problems using a random forest model.
 - **JSON Encoding/Decoding**: For storing generated math problems based on difficulty level.
   
-> The app does not use the MVVM architecture, focusing on simplicity and ease of implementation.
 
 ## Contributing
 Contributions are welcome! Whether you have ideas for improving the game mechanics, enhancing the difficulty prediction model, or introducing new problem types, feel free to fork the repository, make changes, and submit a pull request.
