@@ -1,0 +1,1402 @@
+[
+  {
+    "secondOperator" : "-",
+    "secondNumber" : 6,
+    "thirdNumber" : 20,
+    "firstNumber" : 54,
+    "firstOperator" : "\/"
+  },
+  {
+    "secondOperator" : "-",
+    "firstNumber" : 6,
+    "firstOperator" : "*",
+    "secondNumber" : 12,
+    "thirdNumber" : 5
+  },
+  {
+    "firstOperator" : "*",
+    "secondOperator" : "\/",
+    "secondNumber" : 20,
+    "firstNumber" : 30,
+    "thirdNumber" : 8
+  },
+  {
+    "thirdNumber" : 4,
+    "firstOperator" : "*",
+    "firstNumber" : 19,
+    "secondOperator" : "\/",
+    "secondNumber" : 12
+  },
+  {
+    "secondOperator" : "\/",
+    "firstOperator" : "*",
+    "secondNumber" : 8,
+    "thirdNumber" : 8,
+    "firstNumber" : 24
+  },
+  {
+    "secondOperator" : "-",
+    "secondNumber" : 10,
+    "firstNumber" : 10,
+    "firstOperator" : "*",
+    "thirdNumber" : 13
+  },
+  {
+    "thirdNumber" : 3,
+    "secondOperator" : "\/",
+    "secondNumber" : 18,
+    "firstOperator" : "-",
+    "firstNumber" : 24
+  },
+  {
+    "firstOperator" : "\/",
+    "thirdNumber" : 12,
+    "firstNumber" : 72,
+    "secondOperator" : "-",
+    "secondNumber" : 8
+  },
+  {
+    "thirdNumber" : 9,
+    "secondNumber" : 30,
+    "firstNumber" : 18,
+    "secondOperator" : "\/",
+    "firstOperator" : "*"
+  },
+  {
+    "firstNumber" : 60,
+    "thirdNumber" : 19,
+    "secondOperator" : "-",
+    "firstOperator" : "\/",
+    "secondNumber" : 10
+  },
+  {
+    "firstOperator" : "\/",
+    "secondNumber" : 9,
+    "thirdNumber" : 26,
+    "firstNumber" : 81,
+    "secondOperator" : "-"
+  },
+  {
+    "secondNumber" : 7,
+    "thirdNumber" : 3,
+    "secondOperator" : "\/",
+    "firstNumber" : 21,
+    "firstOperator" : "*"
+  },
+  {
+    "secondNumber" : 10,
+    "thirdNumber" : 21,
+    "firstNumber" : 70,
+    "firstOperator" : "\/",
+    "secondOperator" : "-"
+  },
+  {
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "secondNumber" : 10,
+    "thirdNumber" : 21,
+    "firstNumber" : 90
+  },
+  {
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "thirdNumber" : 23,
+    "secondNumber" : 10,
+    "firstNumber" : 80
+  },
+  {
+    "secondNumber" : 9,
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "thirdNumber" : 12,
+    "firstNumber" : 90
+  },
+  {
+    "thirdNumber" : 3,
+    "secondOperator" : "\/",
+    "firstOperator" : "+",
+    "firstNumber" : 30,
+    "secondNumber" : 6
+  },
+  {
+    "firstNumber" : 41,
+    "secondOperator" : "\/",
+    "secondNumber" : 5,
+    "thirdNumber" : 2,
+    "firstOperator" : "-"
+  },
+  {
+    "firstNumber" : 10,
+    "secondOperator" : "\/",
+    "firstOperator" : "*",
+    "secondNumber" : 30,
+    "thirdNumber" : 5
+  },
+  {
+    "thirdNumber" : 10,
+    "firstOperator" : "*",
+    "firstNumber" : 30,
+    "secondOperator" : "\/",
+    "secondNumber" : 6
+  },
+  {
+    "secondNumber" : 9,
+    "thirdNumber" : 4,
+    "firstOperator" : "*",
+    "firstNumber" : 9,
+    "secondOperator" : "-"
+  },
+  {
+    "secondNumber" : 32,
+    "firstNumber" : 20,
+    "firstOperator" : "*",
+    "thirdNumber" : 8,
+    "secondOperator" : "\/"
+  },
+  {
+    "secondNumber" : 2,
+    "thirdNumber" : 2,
+    "firstNumber" : 26,
+    "firstOperator" : "-",
+    "secondOperator" : "\/"
+  },
+  {
+    "firstOperator" : "-",
+    "secondOperator" : "*",
+    "secondNumber" : 25,
+    "thirdNumber" : 16,
+    "firstNumber" : 24
+  },
+  {
+    "firstOperator" : "\/",
+    "thirdNumber" : 15,
+    "secondOperator" : "-",
+    "secondNumber" : 9,
+    "firstNumber" : 81
+  },
+  {
+    "thirdNumber" : 4,
+    "firstOperator" : "*",
+    "secondOperator" : "\/",
+    "secondNumber" : 15,
+    "firstNumber" : 8
+  },
+  {
+    "secondNumber" : 5,
+    "secondOperator" : "\/",
+    "firstOperator" : "*",
+    "thirdNumber" : 3,
+    "firstNumber" : 36
+  },
+  {
+    "firstNumber" : 70,
+    "secondNumber" : 7,
+    "secondOperator" : "-",
+    "firstOperator" : "\/",
+    "thirdNumber" : 23
+  },
+  {
+    "thirdNumber" : 7,
+    "firstNumber" : 37,
+    "firstOperator" : "*",
+    "secondOperator" : "\/",
+    "secondNumber" : 14
+  },
+  {
+    "secondNumber" : 45,
+    "firstOperator" : "*",
+    "thirdNumber" : 10,
+    "secondOperator" : "\/",
+    "firstNumber" : 18
+  },
+  {
+    "secondNumber" : 9,
+    "firstNumber" : 63,
+    "thirdNumber" : 13,
+    "firstOperator" : "\/",
+    "secondOperator" : "-"
+  },
+  {
+    "thirdNumber" : 24,
+    "firstNumber" : 90,
+    "secondOperator" : "-",
+    "firstOperator" : "\/",
+    "secondNumber" : 9
+  },
+  {
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "thirdNumber" : 10,
+    "firstNumber" : 72,
+    "secondNumber" : 8
+  },
+  {
+    "secondOperator" : "\/",
+    "thirdNumber" : 8,
+    "firstNumber" : 48,
+    "firstOperator" : "*",
+    "secondNumber" : 11
+  },
+  {
+    "firstOperator" : "-",
+    "thirdNumber" : 2,
+    "secondNumber" : 2,
+    "secondOperator" : "\/",
+    "firstNumber" : 50
+  },
+  {
+    "thirdNumber" : 9,
+    "secondOperator" : "*",
+    "secondNumber" : 26,
+    "firstNumber" : 24,
+    "firstOperator" : "-"
+  },
+  {
+    "thirdNumber" : 2,
+    "firstNumber" : 24,
+    "secondOperator" : "*",
+    "firstOperator" : "-",
+    "secondNumber" : 33
+  },
+  {
+    "firstOperator" : "\/",
+    "thirdNumber" : 12,
+    "secondOperator" : "-",
+    "firstNumber" : 81,
+    "secondNumber" : 9
+  },
+  {
+    "secondNumber" : 7,
+    "thirdNumber" : 4,
+    "firstNumber" : 28,
+    "firstOperator" : "*",
+    "secondOperator" : "\/"
+  },
+  {
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "thirdNumber" : 12,
+    "firstNumber" : 90,
+    "secondNumber" : 9
+  },
+  {
+    "secondOperator" : "-",
+    "firstOperator" : "*",
+    "secondNumber" : 5,
+    "thirdNumber" : 31,
+    "firstNumber" : 22
+  },
+  {
+    "thirdNumber" : 22,
+    "firstNumber" : 7,
+    "firstOperator" : "*",
+    "secondNumber" : 16,
+    "secondOperator" : "-"
+  },
+  {
+    "firstOperator" : "-",
+    "firstNumber" : 47,
+    "secondOperator" : "\/",
+    "secondNumber" : 5,
+    "thirdNumber" : 3
+  },
+  {
+    "secondNumber" : 8,
+    "thirdNumber" : 18,
+    "firstOperator" : "\/",
+    "firstNumber" : 80,
+    "secondOperator" : "-"
+  },
+  {
+    "thirdNumber" : 15,
+    "secondNumber" : 11,
+    "firstOperator" : "*",
+    "secondOperator" : "-",
+    "firstNumber" : 9
+  },
+  {
+    "firstNumber" : 90,
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "thirdNumber" : 17,
+    "secondNumber" : 10
+  },
+  {
+    "secondNumber" : 8,
+    "secondOperator" : "-",
+    "thirdNumber" : 18,
+    "firstNumber" : 56,
+    "firstOperator" : "\/"
+  },
+  {
+    "firstOperator" : "*",
+    "secondNumber" : 18,
+    "thirdNumber" : 9,
+    "firstNumber" : 32,
+    "secondOperator" : "\/"
+  },
+  {
+    "thirdNumber" : 10,
+    "firstOperator" : "*",
+    "firstNumber" : 50,
+    "secondNumber" : 6,
+    "secondOperator" : "\/"
+  },
+  {
+    "firstNumber" : 56,
+    "thirdNumber" : 27,
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "secondNumber" : 7
+  },
+  {
+    "thirdNumber" : 1,
+    "secondNumber" : 35,
+    "firstOperator" : "-",
+    "firstNumber" : 21,
+    "secondOperator" : "*"
+  },
+  {
+    "secondNumber" : 43,
+    "thirdNumber" : 8,
+    "firstOperator" : "*",
+    "firstNumber" : 16,
+    "secondOperator" : "\/"
+  },
+  {
+    "firstOperator" : "*",
+    "secondOperator" : "\/",
+    "secondNumber" : 21,
+    "thirdNumber" : 4,
+    "firstNumber" : 12
+  },
+  {
+    "firstOperator" : "-",
+    "secondOperator" : "-",
+    "thirdNumber" : 24,
+    "firstNumber" : 25,
+    "secondNumber" : 20
+  },
+  {
+    "firstNumber" : 5,
+    "firstOperator" : "*",
+    "secondOperator" : "-",
+    "thirdNumber" : 26,
+    "secondNumber" : 21
+  },
+  {
+    "thirdNumber" : 26,
+    "firstNumber" : 5,
+    "secondNumber" : 20,
+    "secondOperator" : "-",
+    "firstOperator" : "*"
+  },
+  {
+    "thirdNumber" : 28,
+    "firstOperator" : "\/",
+    "firstNumber" : 60,
+    "secondNumber" : 6,
+    "secondOperator" : "-"
+  },
+  {
+    "firstNumber" : 40,
+    "secondOperator" : "\/",
+    "firstOperator" : "*",
+    "thirdNumber" : 8,
+    "secondNumber" : 15
+  },
+  {
+    "firstOperator" : "+",
+    "firstNumber" : 38,
+    "secondNumber" : 49,
+    "thirdNumber" : 3,
+    "secondOperator" : "\/"
+  },
+  {
+    "firstNumber" : 5,
+    "secondOperator" : "\/",
+    "secondNumber" : 48,
+    "thirdNumber" : 5,
+    "firstOperator" : "*"
+  },
+  {
+    "firstOperator" : "+",
+    "secondOperator" : "\/",
+    "thirdNumber" : 4,
+    "secondNumber" : 49,
+    "firstNumber" : 27
+  },
+  {
+    "firstNumber" : 49,
+    "thirdNumber" : 2,
+    "firstOperator" : "+",
+    "secondNumber" : 15,
+    "secondOperator" : "\/"
+  },
+  {
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "thirdNumber" : 15,
+    "secondNumber" : 10,
+    "firstNumber" : 80
+  },
+  {
+    "secondNumber" : 8,
+    "secondOperator" : "-",
+    "thirdNumber" : 16,
+    "firstNumber" : 64,
+    "firstOperator" : "\/"
+  },
+  {
+    "firstNumber" : 6,
+    "secondNumber" : 13,
+    "thirdNumber" : 3,
+    "firstOperator" : "*",
+    "secondOperator" : "\/"
+  },
+  {
+    "secondNumber" : 49,
+    "firstNumber" : 16,
+    "firstOperator" : "+",
+    "secondOperator" : "\/",
+    "thirdNumber" : 5
+  },
+  {
+    "thirdNumber" : 9,
+    "firstNumber" : 100,
+    "secondNumber" : 10,
+    "firstOperator" : "\/",
+    "secondOperator" : "-"
+  },
+  {
+    "secondNumber" : 16,
+    "firstOperator" : "*",
+    "secondOperator" : "\/",
+    "thirdNumber" : 8,
+    "firstNumber" : 43
+  },
+  {
+    "secondNumber" : 42,
+    "secondOperator" : "\/",
+    "firstOperator" : "*",
+    "firstNumber" : 10,
+    "thirdNumber" : 6
+  },
+  {
+    "secondNumber" : 1,
+    "secondOperator" : "\/",
+    "thirdNumber" : 2,
+    "firstOperator" : "+",
+    "firstNumber" : 25
+  },
+  {
+    "secondNumber" : 11,
+    "firstOperator" : "*",
+    "thirdNumber" : 6,
+    "secondOperator" : "\/",
+    "firstNumber" : 30
+  },
+  {
+    "thirdNumber" : 9,
+    "secondNumber" : 10,
+    "firstOperator" : "*",
+    "firstNumber" : 27,
+    "secondOperator" : "\/"
+  },
+  {
+    "thirdNumber" : 18,
+    "secondOperator" : "-",
+    "secondNumber" : 9,
+    "firstOperator" : "\/",
+    "firstNumber" : 63
+  },
+  {
+    "firstOperator" : "\/",
+    "thirdNumber" : 27,
+    "secondOperator" : "-",
+    "secondNumber" : 7,
+    "firstNumber" : 70
+  },
+  {
+    "firstNumber" : 7,
+    "firstOperator" : "*",
+    "secondOperator" : "\/",
+    "thirdNumber" : 4,
+    "secondNumber" : 48
+  },
+  {
+    "thirdNumber" : 2,
+    "firstNumber" : 41,
+    "secondNumber" : 7,
+    "firstOperator" : "-",
+    "secondOperator" : "\/"
+  },
+  {
+    "secondNumber" : 8,
+    "firstOperator" : "\/",
+    "firstNumber" : 56,
+    "secondOperator" : "-",
+    "thirdNumber" : 21
+  },
+  {
+    "thirdNumber" : 6,
+    "secondNumber" : 12,
+    "secondOperator" : "\/",
+    "firstNumber" : 39,
+    "firstOperator" : "*"
+  },
+  {
+    "secondNumber" : 40,
+    "thirdNumber" : 8,
+    "firstNumber" : 15,
+    "secondOperator" : "\/",
+    "firstOperator" : "*"
+  },
+  {
+    "secondNumber" : 9,
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "firstNumber" : 72,
+    "thirdNumber" : 10
+  },
+  {
+    "secondNumber" : 22,
+    "firstOperator" : "*",
+    "thirdNumber" : 3,
+    "secondOperator" : "\/",
+    "firstNumber" : 12
+  },
+  {
+    "secondOperator" : "-",
+    "firstNumber" : 54,
+    "firstOperator" : "\/",
+    "thirdNumber" : 14,
+    "secondNumber" : 9
+  },
+  {
+    "secondNumber" : 24,
+    "secondOperator" : "-",
+    "firstNumber" : 5,
+    "firstOperator" : "*",
+    "thirdNumber" : 49
+  },
+  {
+    "secondOperator" : "-",
+    "secondNumber" : 10,
+    "firstNumber" : 90,
+    "thirdNumber" : 11,
+    "firstOperator" : "\/"
+  },
+  {
+    "secondOperator" : "-",
+    "thirdNumber" : 40,
+    "secondNumber" : 5,
+    "firstNumber" : 22,
+    "firstOperator" : "*"
+  },
+  {
+    "secondOperator" : "-",
+    "firstOperator" : "\/",
+    "thirdNumber" : 20,
+    "secondNumber" : 10,
+    "firstNumber" : 60
+  },
+  {
+    "secondOperator" : "*",
+    "secondNumber" : 11,
+    "firstOperator" : "*",
+    "thirdNumber" : 1,
+    "firstNumber" : 8
+  },
+  {
+    "secondNumber" : 17,
+    "thirdNumber" : 2,
+    "firstNumber" : 49,
+    "firstOperator" : "+",
+    "secondOperator" : "\/"
+  },
+  {
+    "secondNumber" : 6,
+    "secondOperator" : "\/",
+    "firstOperator" : "-",
+    "thirdNumber" : 2,
+    "firstNumber" : 32
+  },
+  {
+    "firstNumber" : 4,
+    "secondOperator" : "\/",
+    "firstOperator" : "*",
+    "thirdNumber" : 2,
+    "secondNumber" : 30
+  },
+  {
+    "secondNumber" : 9,
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "firstNumber" : 54,
+    "thirdNumber" : 14
+  },
+  {
+    "thirdNumber" : 6,
+    "secondOperator" : "\/",
+    "firstOperator" : "*",
+    "firstNumber" : 20,
+    "secondNumber" : 27
+  },
+  {
+    "secondNumber" : 7,
+    "firstNumber" : 63,
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "thirdNumber" : 24
+  },
+  {
+    "secondOperator" : "-",
+    "firstNumber" : 8,
+    "secondNumber" : 9,
+    "firstOperator" : "*",
+    "thirdNumber" : 34
+  },
+  {
+    "firstOperator" : "\/",
+    "secondNumber" : 10,
+    "thirdNumber" : 12,
+    "firstNumber" : 90,
+    "secondOperator" : "-"
+  },
+  {
+    "secondNumber" : 7,
+    "firstNumber" : 44,
+    "thirdNumber" : 7,
+    "secondOperator" : "\/",
+    "firstOperator" : "*"
+  },
+  {
+    "secondOperator" : "\/",
+    "thirdNumber" : 5,
+    "firstNumber" : 15,
+    "firstOperator" : "*",
+    "secondNumber" : 22
+  },
+  {
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "secondNumber" : 6,
+    "thirdNumber" : 17,
+    "firstNumber" : 54
+  },
+  {
+    "secondNumber" : 50,
+    "firstOperator" : "*",
+    "secondOperator" : "\/",
+    "firstNumber" : 4,
+    "thirdNumber" : 5
+  },
+  {
+    "secondOperator" : "\/",
+    "thirdNumber" : 2,
+    "secondNumber" : 20,
+    "firstNumber" : 9,
+    "firstOperator" : "*"
+  },
+  {
+    "firstOperator" : "*",
+    "secondOperator" : "\/",
+    "firstNumber" : 31,
+    "secondNumber" : 4,
+    "thirdNumber" : 2
+  },
+  {
+    "secondNumber" : 7,
+    "thirdNumber" : 2,
+    "firstNumber" : 41,
+    "firstOperator" : "-",
+    "secondOperator" : "\/"
+  },
+  {
+    "thirdNumber" : 1,
+    "firstOperator" : "\/",
+    "secondOperator" : "*",
+    "firstNumber" : 81,
+    "secondNumber" : 9
+  },
+  {
+    "firstOperator" : "*",
+    "secondNumber" : 7,
+    "secondOperator" : "\/",
+    "thirdNumber" : 4,
+    "firstNumber" : 32
+  },
+  {
+    "firstNumber" : 16,
+    "secondOperator" : "\/",
+    "thirdNumber" : 8,
+    "secondNumber" : 44,
+    "firstOperator" : "*"
+  },
+  {
+    "secondOperator" : "-",
+    "thirdNumber" : 9,
+    "secondNumber" : 4,
+    "firstOperator" : "*",
+    "firstNumber" : 22
+  },
+  {
+    "secondNumber" : 8,
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "thirdNumber" : 16,
+    "firstNumber" : 64
+  },
+  {
+    "secondOperator" : "-",
+    "firstNumber" : 7,
+    "firstOperator" : "*",
+    "thirdNumber" : 45,
+    "secondNumber" : 12
+  },
+  {
+    "firstNumber" : 17,
+    "secondNumber" : 24,
+    "firstOperator" : "*",
+    "thirdNumber" : 6,
+    "secondOperator" : "\/"
+  },
+  {
+    "firstNumber" : 63,
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "thirdNumber" : 13,
+    "secondNumber" : 9
+  },
+  {
+    "firstNumber" : 45,
+    "thirdNumber" : 5,
+    "firstOperator" : "*",
+    "secondOperator" : "\/",
+    "secondNumber" : 10
+  },
+  {
+    "secondOperator" : "-",
+    "firstNumber" : 3,
+    "secondNumber" : 35,
+    "thirdNumber" : 27,
+    "firstOperator" : "*"
+  },
+  {
+    "firstOperator" : "\/",
+    "firstNumber" : 90,
+    "secondNumber" : 9,
+    "thirdNumber" : 29,
+    "secondOperator" : "-"
+  },
+  {
+    "firstOperator" : "*",
+    "thirdNumber" : 25,
+    "secondNumber" : 4,
+    "firstNumber" : 18,
+    "secondOperator" : "-"
+  },
+  {
+    "secondOperator" : "-",
+    "firstNumber" : 8,
+    "firstOperator" : "*",
+    "thirdNumber" : 38,
+    "secondNumber" : 13
+  },
+  {
+    "secondOperator" : "-",
+    "firstOperator" : "\/",
+    "secondNumber" : 9,
+    "thirdNumber" : 22,
+    "firstNumber" : 72
+  },
+  {
+    "firstNumber" : 21,
+    "secondOperator" : "\/",
+    "firstOperator" : "*",
+    "thirdNumber" : 9,
+    "secondNumber" : 15
+  },
+  {
+    "secondNumber" : 18,
+    "firstNumber" : 6,
+    "thirdNumber" : 25,
+    "firstOperator" : "*",
+    "secondOperator" : "-"
+  },
+  {
+    "secondNumber" : 7,
+    "firstNumber" : 56,
+    "secondOperator" : "-",
+    "thirdNumber" : 27,
+    "firstOperator" : "\/"
+  },
+  {
+    "firstOperator" : "\/",
+    "firstNumber" : 72,
+    "secondOperator" : "-",
+    "thirdNumber" : 8,
+    "secondNumber" : 9
+  },
+  {
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "firstNumber" : 72,
+    "secondNumber" : 9,
+    "thirdNumber" : 16
+  },
+  {
+    "thirdNumber" : 2,
+    "firstOperator" : "*",
+    "firstNumber" : 21,
+    "secondOperator" : "-",
+    "secondNumber" : 4
+  },
+  {
+    "secondNumber" : 8,
+    "thirdNumber" : 25,
+    "firstNumber" : 72,
+    "firstOperator" : "\/",
+    "secondOperator" : "-"
+  },
+  {
+    "secondNumber" : 4,
+    "firstNumber" : 10,
+    "secondOperator" : "-",
+    "firstOperator" : "*",
+    "thirdNumber" : 9
+  },
+  {
+    "thirdNumber" : 2,
+    "firstOperator" : "+",
+    "firstNumber" : 39,
+    "secondOperator" : "\/",
+    "secondNumber" : 1
+  },
+  {
+    "thirdNumber" : 2,
+    "secondNumber" : 4,
+    "secondOperator" : "\/",
+    "firstOperator" : "*",
+    "firstNumber" : 32
+  },
+  {
+    "secondOperator" : "-",
+    "secondNumber" : 10,
+    "thirdNumber" : 23,
+    "firstOperator" : "\/",
+    "firstNumber" : 100
+  },
+  {
+    "secondOperator" : "\/",
+    "thirdNumber" : 2,
+    "firstNumber" : 37,
+    "firstOperator" : "*",
+    "secondNumber" : 4
+  },
+  {
+    "firstOperator" : "*",
+    "secondNumber" : 31,
+    "thirdNumber" : 24,
+    "firstNumber" : 3,
+    "secondOperator" : "-"
+  },
+  {
+    "firstNumber" : 54,
+    "secondNumber" : 6,
+    "thirdNumber" : 23,
+    "firstOperator" : "\/",
+    "secondOperator" : "-"
+  },
+  {
+    "firstNumber" : 50,
+    "secondOperator" : "-",
+    "thirdNumber" : 16,
+    "firstOperator" : "\/",
+    "secondNumber" : 10
+  },
+  {
+    "thirdNumber" : 28,
+    "firstNumber" : 64,
+    "secondOperator" : "-",
+    "secondNumber" : 8,
+    "firstOperator" : "\/"
+  },
+  {
+    "secondOperator" : "-",
+    "thirdNumber" : 16,
+    "firstNumber" : 90,
+    "firstOperator" : "\/",
+    "secondNumber" : 10
+  },
+  {
+    "secondNumber" : 32,
+    "firstNumber" : 19,
+    "firstOperator" : "*",
+    "thirdNumber" : 8,
+    "secondOperator" : "\/"
+  },
+  {
+    "thirdNumber" : 8,
+    "firstNumber" : 22,
+    "firstOperator" : "*",
+    "secondNumber" : 24,
+    "secondOperator" : "\/"
+  },
+  {
+    "firstOperator" : "*",
+    "secondOperator" : "-",
+    "firstNumber" : 9,
+    "thirdNumber" : 22,
+    "secondNumber" : 8
+  },
+  {
+    "secondOperator" : "-",
+    "firstNumber" : 80,
+    "firstOperator" : "\/",
+    "secondNumber" : 10,
+    "thirdNumber" : 24
+  },
+  {
+    "firstNumber" : 9,
+    "secondNumber" : 22,
+    "firstOperator" : "*",
+    "secondOperator" : "\/",
+    "thirdNumber" : 3
+  },
+  {
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "secondNumber" : 10,
+    "thirdNumber" : 15,
+    "firstNumber" : 100
+  },
+  {
+    "firstOperator" : "\/",
+    "secondNumber" : 8,
+    "firstNumber" : 64,
+    "secondOperator" : "-",
+    "thirdNumber" : 20
+  },
+  {
+    "firstOperator" : "+",
+    "secondOperator" : "\/",
+    "thirdNumber" : 2,
+    "secondNumber" : 17,
+    "firstNumber" : 49
+  },
+  {
+    "secondNumber" : 45,
+    "secondOperator" : "\/",
+    "firstNumber" : 6,
+    "thirdNumber" : 9,
+    "firstOperator" : "*"
+  },
+  {
+    "secondNumber" : 8,
+    "thirdNumber" : 10,
+    "firstNumber" : 9,
+    "firstOperator" : "*",
+    "secondOperator" : "-"
+  },
+  {
+    "firstNumber" : 72,
+    "firstOperator" : "\/",
+    "thirdNumber" : 29,
+    "secondNumber" : 8,
+    "secondOperator" : "-"
+  },
+  {
+    "firstOperator" : "*",
+    "secondNumber" : 18,
+    "secondOperator" : "\/",
+    "thirdNumber" : 2,
+    "firstNumber" : 9
+  },
+  {
+    "firstNumber" : 80,
+    "secondNumber" : 8,
+    "secondOperator" : "-",
+    "thirdNumber" : 21,
+    "firstOperator" : "\/"
+  },
+  {
+    "firstOperator" : "*",
+    "secondNumber" : 27,
+    "thirdNumber" : 10,
+    "firstNumber" : 30,
+    "secondOperator" : "\/"
+  },
+  {
+    "secondNumber" : 5,
+    "thirdNumber" : 5,
+    "firstOperator" : "*",
+    "secondOperator" : "\/",
+    "firstNumber" : 35
+  },
+  {
+    "firstNumber" : 64,
+    "firstOperator" : "\/",
+    "thirdNumber" : 23,
+    "secondOperator" : "-",
+    "secondNumber" : 8
+  },
+  {
+    "secondOperator" : "\/",
+    "thirdNumber" : 4,
+    "secondNumber" : 9,
+    "firstNumber" : 32,
+    "firstOperator" : "*"
+  },
+  {
+    "firstNumber" : 56,
+    "secondOperator" : "-",
+    "firstOperator" : "\/",
+    "secondNumber" : 7,
+    "thirdNumber" : 27
+  },
+  {
+    "thirdNumber" : 4,
+    "firstNumber" : 16,
+    "firstOperator" : "*",
+    "secondNumber" : 17,
+    "secondOperator" : "\/"
+  },
+  {
+    "thirdNumber" : 10,
+    "secondOperator" : "-",
+    "secondNumber" : 9,
+    "firstNumber" : 63,
+    "firstOperator" : "\/"
+  },
+  {
+    "thirdNumber" : 22,
+    "secondOperator" : "-",
+    "firstNumber" : 8,
+    "firstOperator" : "*",
+    "secondNumber" : 13
+  },
+  {
+    "secondOperator" : "-",
+    "firstOperator" : "*",
+    "secondNumber" : 11,
+    "thirdNumber" : 49,
+    "firstNumber" : 11
+  },
+  {
+    "secondNumber" : 4,
+    "thirdNumber" : 3,
+    "firstOperator" : "*",
+    "firstNumber" : 33,
+    "secondOperator" : "\/"
+  },
+  {
+    "firstOperator" : "*",
+    "secondOperator" : "-",
+    "secondNumber" : 21,
+    "thirdNumber" : 27,
+    "firstNumber" : 5
+  },
+  {
+    "secondNumber" : 17,
+    "firstNumber" : 28,
+    "thirdNumber" : 3,
+    "firstOperator" : "+",
+    "secondOperator" : "\/"
+  },
+  {
+    "firstOperator" : "*",
+    "secondNumber" : 12,
+    "thirdNumber" : 44,
+    "firstNumber" : 8,
+    "secondOperator" : "-"
+  },
+  {
+    "firstNumber" : 90,
+    "secondNumber" : 10,
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "thirdNumber" : 28
+  },
+  {
+    "secondNumber" : 48,
+    "firstOperator" : "*",
+    "firstNumber" : 5,
+    "thirdNumber" : 5,
+    "secondOperator" : "\/"
+  },
+  {
+    "firstNumber" : 90,
+    "secondNumber" : 10,
+    "thirdNumber" : 15,
+    "firstOperator" : "\/",
+    "secondOperator" : "-"
+  },
+  {
+    "firstNumber" : 54,
+    "firstOperator" : "\/",
+    "thirdNumber" : 20,
+    "secondOperator" : "-",
+    "secondNumber" : 6
+  },
+  {
+    "secondOperator" : "-",
+    "firstOperator" : "\/",
+    "secondNumber" : 9,
+    "firstNumber" : 81,
+    "thirdNumber" : 20
+  },
+  {
+    "secondNumber" : 7,
+    "thirdNumber" : 25,
+    "firstOperator" : "\/",
+    "secondOperator" : "-",
+    "firstNumber" : 56
+  },
+  {
+    "firstOperator" : "\/",
+    "secondNumber" : 10,
+    "secondOperator" : "-",
+    "thirdNumber" : 25,
+    "firstNumber" : 70
+  },
+  {
+    "secondOperator" : "\/",
+    "thirdNumber" : 9,
+    "firstOperator" : "*",
+    "secondNumber" : 27,
+    "firstNumber" : 27
+  },
+  {
+    "secondOperator" : "-",
+    "firstNumber" : 54,
+    "secondNumber" : 6,
+    "firstOperator" : "\/",
+    "thirdNumber" : 24
+  },
+  {
+    "thirdNumber" : 41,
+    "secondNumber" : 19,
+    "firstOperator" : "*",
+    "firstNumber" : 6,
+    "secondOperator" : "-"
+  },
+  {
+    "thirdNumber" : 19,
+    "secondOperator" : "-",
+    "firstNumber" : 80,
+    "firstOperator" : "\/",
+    "secondNumber" : 10
+  },
+  {
+    "secondNumber" : 9,
+    "firstNumber" : 81,
+    "secondOperator" : "*",
+    "thirdNumber" : 4,
+    "firstOperator" : "\/"
+  },
+  {
+    "secondOperator" : "-",
+    "secondNumber" : 6,
+    "thirdNumber" : 32,
+    "firstNumber" : 7,
+    "firstOperator" : "*"
+  },
+  {
+    "secondOperator" : "\/",
+    "thirdNumber" : 10,
+    "firstNumber" : 24,
+    "firstOperator" : "*",
+    "secondNumber" : 5
+  },
+  {
+    "thirdNumber" : 8,
+    "secondNumber" : 16,
+    "firstNumber" : 41,
+    "firstOperator" : "*",
+    "secondOperator" : "\/"
+  },
+  {
+    "secondNumber" : 16,
+    "firstOperator" : "*",
+    "firstNumber" : 42,
+    "thirdNumber" : 8,
+    "secondOperator" : "\/"
+  },
+  {
+    "thirdNumber" : 27,
+    "firstOperator" : "\/",
+    "secondNumber" : 7,
+    "secondOperator" : "-",
+    "firstNumber" : 56
+  },
+  {
+    "secondNumber" : 30,
+    "firstNumber" : 14,
+    "thirdNumber" : 5,
+    "firstOperator" : "*",
+    "secondOperator" : "\/"
+  },
+  {
+    "thirdNumber" : 9,
+    "firstOperator" : "*",
+    "secondNumber" : 5,
+    "firstNumber" : 36,
+    "secondOperator" : "\/"
+  },
+  {
+    "firstNumber" : 90,
+    "secondNumber" : 10,
+    "thirdNumber" : 13,
+    "firstOperator" : "\/",
+    "secondOperator" : "-"
+  },
+  {
+    "thirdNumber" : 3,
+    "secondOperator" : "\/",
+    "secondNumber" : 8,
+    "firstOperator" : "+",
+    "firstNumber" : 37
+  },
+  {
+    "secondNumber" : 9,
+    "firstOperator" : "*",
+    "thirdNumber" : 4,
+    "firstNumber" : 24,
+    "secondOperator" : "\/"
+  },
+  {
+    "thirdNumber" : 3,
+    "firstNumber" : 43,
+    "secondOperator" : "\/",
+    "firstOperator" : "*",
+    "secondNumber" : 6
+  },
+  {
+    "thirdNumber" : 2,
+    "firstOperator" : "*",
+    "firstNumber" : 7,
+    "secondNumber" : 12,
+    "secondOperator" : "-"
+  },
+  {
+    "firstNumber" : 81,
+    "secondOperator" : "-",
+    "firstOperator" : "\/",
+    "secondNumber" : 9,
+    "thirdNumber" : 13
+  },
+  {
+    "secondOperator" : "-",
+    "secondNumber" : 9,
+    "thirdNumber" : 21,
+    "firstNumber" : 63,
+    "firstOperator" : "\/"
+  },
+  {
+    "firstNumber" : 26,
+    "secondOperator" : "\/",
+    "secondNumber" : 15,
+    "thirdNumber" : 10,
+    "firstOperator" : "*"
+  },
+  {
+    "firstNumber" : 7,
+    "thirdNumber" : 35,
+    "secondOperator" : "-",
+    "firstOperator" : "*",
+    "secondNumber" : 7
+  },
+  {
+    "firstOperator" : "*",
+    "secondOperator" : "-",
+    "secondNumber" : 4,
+    "thirdNumber" : 31,
+    "firstNumber" : 24
+  },
+  {
+    "secondOperator" : "-",
+    "firstNumber" : 100,
+    "secondNumber" : 10,
+    "firstOperator" : "\/",
+    "thirdNumber" : 9
+  },
+  {
+    "thirdNumber" : 24,
+    "firstOperator" : "*",
+    "firstNumber" : 6,
+    "secondNumber" : 16,
+    "secondOperator" : "-"
+  },
+  {
+    "firstOperator" : "*",
+    "firstNumber" : 4,
+    "secondNumber" : 21,
+    "thirdNumber" : 18,
+    "secondOperator" : "-"
+  },
+  {
+    "secondNumber" : 8,
+    "thirdNumber" : 8,
+    "firstNumber" : 29,
+    "secondOperator" : "\/",
+    "firstOperator" : "*"
+  },
+  {
+    "firstNumber" : 72,
+    "secondOperator" : "-",
+    "secondNumber" : 9,
+    "thirdNumber" : 27,
+    "firstOperator" : "\/"
+  },
+  {
+    "firstOperator" : "\/",
+    "secondNumber" : 6,
+    "thirdNumber" : 24,
+    "firstNumber" : 54,
+    "secondOperator" : "-"
+  },
+  {
+    "thirdNumber" : 14,
+    "secondNumber" : 5,
+    "firstNumber" : 15,
+    "firstOperator" : "*",
+    "secondOperator" : "-"
+  },
+  {
+    "secondNumber" : 5,
+    "firstOperator" : "*",
+    "firstNumber" : 23,
+    "thirdNumber" : 29,
+    "secondOperator" : "-"
+  },
+  {
+    "secondNumber" : 10,
+    "firstNumber" : 7,
+    "secondOperator" : "-",
+    "firstOperator" : "*",
+    "thirdNumber" : 2
+  },
+  {
+    "thirdNumber" : 25,
+    "firstNumber" : 70,
+    "firstOperator" : "\/",
+    "secondNumber" : 10,
+    "secondOperator" : "-"
+  },
+  {
+    "firstNumber" : 8,
+    "firstOperator" : "*",
+    "thirdNumber" : 38,
+    "secondOperator" : "-",
+    "secondNumber" : 10
+  },
+  {
+    "firstOperator" : "\/",
+    "firstNumber" : 72,
+    "secondNumber" : 9,
+    "thirdNumber" : 19,
+    "secondOperator" : "-"
+  }
+]
