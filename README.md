@@ -2,8 +2,7 @@
 # QuickMath
 ![QM_icon (1) (1)](https://github.com/user-attachments/assets/798c107c-fe25-48af-9abc-18f8f355b634)
 
-**QuickMath** is a simple SwiftUI math game that generates a variety of basic math problems for users to solve. The app dynamically categorizes these problems into five different difficulty levels, using a CoreML model to predict the difficulty of each generated problem. The app offers a progressively challenging experience, allowing users to improve their math skills at their own pace.
-
+**QuickMath** It’s a simple game with basic math problems where the difficulty increases as your score goes up, making it more challenging. The app uses CoreML to generate random problems with difficulty levels ranging from 1 to 5 and sorts them into pre-scored categories. It’s a fun way to test your metal math skills.
 ## Table of Contents
 - [Demo](#demo)
 - [Screenshots](#screenshots)
@@ -38,16 +37,9 @@ https://github.com/user-attachments/assets/a6569fca-026f-475b-9eee-f34c1c3a00e9
 
 
 ## Features
-
-- **Math Problem Generation**: A method is used to generate simple math problems (addition, subtraction, multiplication, division). The app pre-generates these problems and stores them in five arrays corresponding to different difficulty levels.
-- **CoreML-Based Difficulty Prediction**: The app leverages a CoreML model to predict the difficulty of each problem based on its structure and content. Problems are categorized into five difficulty levels using this model.
-- **Score Progression**: As users solve problems and their score increases, the game pulls more challenging problems from higher difficulty arrays.
-- **Custom Problem Sets**: Problems are generated once and stored in arrays, with difficulty managed by the CoreML predictor rather than adjusting in real-time.
-
-## Training Dataset and CoreML Model
-
-The CoreML model used to predict difficulty was trained with a dataset of math problems with varying complexity. The model uses the **random forest** algorithm and achieved a **validation accuracy of 0.39**. This allows for reasonably accurate difficulty classification for the generated problems, which are then categorized into five levels.
-
+- **Problem Generation**: Separate method that generates basic math problems and uses a CoreML model to predict their difficulty. Based on the predicted difficulty, the problems are stored in five different levels.
+- **Progressive Difficulty**: As players solve problems and increase their score, the app delivers more challenging problems from higher difficulty levels, ensuring an engaging, evolving challenge.
+- **Dynamic Timer**: The game has a timer that increases when you answer correctly, giving you more time to play. If you get an answer wrong, time is deducted, making it more challenging to keep going. This adds a fun and exciting twist to the game!
 ## Technologies Used
 
 - **SwiftUI**: For building the user interface and providing a smooth user experience.
